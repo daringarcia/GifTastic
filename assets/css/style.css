@@ -1,0 +1,32 @@
+button, div, form, input{
+    margin:2px;
+}
+
+img{
+    max-width: 250px;
+
+}
+.holder{
+    max-width: 250px;
+}
+
+label {
+    color: #65d465;
+}
+
+body {
+    background-color: black;
+    font-family: matrix;
+    font-size: 24;
+}
+
+.btn-default {
+    background-color: silver;
+    color: purple;
+    font-size: 18px;
+    font-family: matrix;
+}
+.display-images{
+    display: inline;
+    color: purple
+}
